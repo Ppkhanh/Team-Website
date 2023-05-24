@@ -1,0 +1,16 @@
+.membercard {
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+.membercard h3 {
+    margin-top: 20px;
+}
+
+.membercard img {
+    border-radius: 10px;
+}
